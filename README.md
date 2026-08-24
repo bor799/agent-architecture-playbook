@@ -35,7 +35,7 @@
 ## 内容
 
 ```text
-agent-architecture-learning.md   Skill 入口
+agent-architecture-playbook.md   Skill 入口
 docs/framework-comparison.md     框架比较
 docs/scenario-library.md         场景库
 docs/learning-history-template.md 学习记录模板
@@ -43,7 +43,7 @@ docs/learning-history-template.md 学习记录模板
 
 ## 使用
 
-将 `agent-architecture-learning.md` 复制到支持 Markdown Skill 的 Agent 环境，再提供一个具体产品或架构材料进行对比学习。
+将 `agent-architecture-playbook.md` 复制到支持 Markdown Skill 的 Agent 环境，再提供一个具体产品或架构材料进行对比学习。
 
 ## My role
 
