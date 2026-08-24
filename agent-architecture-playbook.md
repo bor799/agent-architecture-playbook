@@ -1,5 +1,5 @@
 ---
-name: agent-architecture-learning
+name: agent-architecture-playbook
 description: |
   通过框架对比学习 Agent 架构设计决策。
   诊断学习者掌握状况，提供定制化学习路径。
