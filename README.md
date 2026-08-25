@@ -1,6 +1,12 @@
+<div align="center">
+
 # Agent 架构决策手册
 
-> **Don't teach framework syntax. Practice architecture decisions.**
+**不教写代码，练习架构判断。**
+
+*Don't teach framework syntax. Practice architecture decisions.*
+
+</div>
 
 大多数 Agent 教程从「怎么写代码」开始。这个项目从另一个问题开始：**面对一个真实产品，究竟需要多少 Agent 能力，什么时候继续演进反而是过度工程？**
 
